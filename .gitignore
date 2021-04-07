@@ -1,0 +1,4 @@
+.env
+data/
+.*rc
+node_modules
